@@ -19,7 +19,18 @@ font-weight: 700;}
 
 .trans{ background-color: rgba(121, 61, 177, 0.801);
     color: white;
+    border: 3px solid transparent;
+    padding: 12px 50px;
+    border-radius: 10px;
+    text-transform: uppercase;
+    transition-duration: 1.3s;
+    font-size: 20px;
 
+}
+
+.trans:hover{
+    background-color: rgb(209, 6, 6);
+    color: white;
 }
 
 .f-nav { font-weight: 600;
