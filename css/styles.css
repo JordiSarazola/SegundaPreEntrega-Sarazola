@@ -17,6 +17,10 @@ text-decoration: none;}
 font-size: 20px;
 font-weight: 700;}
 
+.trans{ background-color: rgba(121, 61, 177, 0.801);
+    color: white;
+
+}
 
 .f-nav { font-weight: 600;
 font-size: medium;}
